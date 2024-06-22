@@ -1,5 +1,7 @@
 # Music Store Data Analysis Project
 
+![Alt text](image.jpeg)
+
 ## Problem Statement
 
 This project involves analyzing a music store dataset to extract meaningful insights and demonstrate data science skills using SQL. The analysis covers various aspects of the dataset, including employee hierarchy, sales distribution, customer analysis, genre popularity, and artist performance.
